@@ -1,5 +1,5 @@
 # FIZ0423 Özel Görelilik Teorisi Final Projesi
-Bu çalışma Fiz0423 -Özel Görelilik Teorisi dersi için Güz 2021 döneminde yapılmıştır.
+Bu çalışma Fiz0423 -Özel Görelilik Teorisi dersi için 2020-2021 Güz döneminde yapılmıştır.
 
 ## Ekran Görüntüleri
 ![image](https://user-images.githubusercontent.com/85988507/183420064-326436ee-188d-4a9e-9b5c-7d74abde1acd.png)
